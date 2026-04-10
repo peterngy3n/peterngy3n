@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Nguyen Phuc Thinh. I live in Thu Duc, Ho Chi Minh City<br>
+I'm Nguyen Phuc Thinh. I live in Tan Binh, Ho Chi Minh City<br>
 I study in University of Infomation & Technology - Faculty of Software Engineering <br>
 
 
